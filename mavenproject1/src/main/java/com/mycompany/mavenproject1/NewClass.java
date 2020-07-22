@@ -10,5 +10,5 @@ package com.mycompany.mavenproject1;
  * @author shaha
  */
 public class NewClass {
-    
+    jikpl
 }
